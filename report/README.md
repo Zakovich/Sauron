@@ -5,17 +5,16 @@ Sistemas Distribuídos 2019-2020, segundo semestre
 
 ## Autores
 
-*(preencher linha abaixo com identificador de grupo, por exemplo, A07 ou T22; e depois apagar esta linha)*  
-**Grupo CXX**
+**Grupo A05**
 
 
 *(preencher a tabela abaixo com dados da equipa; e depois apagar esta linha)*  
 
 | Número | Nome              | Utilizador                       | Correio eletrónico                  |
 | -------|-------------------|----------------------------------| ------------------------------------|
-| 11111  | Alice Distributed | <https://github.com/AliceUser>   | <mailto:alice@tecnico.ulisboa.pt>   |
-| 22222  | Bob Systems       | <https://github.com/BobUser>     | <mailto:bob@tecnico.ulisboa.pt>     |
-| 33333  | Charlie Rules     | <https://github.com/CharlieUser> | <mailto:charlie@tecnico.ulisboa.pt> |
+| 83462  | Francisco Seixas| <https://github.com/Seixaaas>   | <franscisco.m.seixas@tecnico.ulisboa.pt>   |
+| 85320  | 	Joao Pedro     | <https://github.com/Jocampe>     | <joao.nuno.pedro@tecnico.ulisboa.pt>     |
+| 79690  | Tomás Zaki     | <https://github.com/Zakovich> | <tomas.zaki@tecnico.ulisboa.pt> |
 
 *(usar imagens com 150px de altura; e depois apagar esta linha)*  
 ![Alice](alice.png) ![Bob](bob.png) ![Charlie](charlie.png)
